@@ -1,10 +1,8 @@
 ### Hey, I'm Naren.
 
-I'm a mechanical engineer who wandered into product design, then into technology, and never quite stopped wandering. Today I'm a Product Principal at [ThoughtWorks](https://thoughtworks.com), shaping intelligent products across healthtech, aviation, retail, and public sector. Based in Amsterdam.
+They say pick a lane. I picked the intersections instead — design, engineering, philosophy, AI. The dots nobody else is connecting? That's where I live.
 
-The thing about working at the intersection of design, engineering, and AI is that the most interesting problems are never purely technical. They're human. They're about connecting dots across disciplines that rarely talk to each other — and making something that actually *works* for real people.
-
-Now I'm shipping my own experiments.
+Product Principal at [ThoughtWorks](https://thoughtworks.com), Amsterdam. Shaping intelligent products across healthtech, aviation, retail, and public sector. Now shipping my own experiments.
 
 #### What I'm building
 
