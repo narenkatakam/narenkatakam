@@ -12,6 +12,6 @@ Product Principal at [ThoughtWorks](https://thoughtworks.com), Amsterdam. Shapin
 
 #### I also write
 
-About product thinking, design systems, and the messy territory where technology meets taste. Sometimes about [Michelangelo's forearms](https://medium.com/@im.naren/michelangelos-moses-and-his-little-finger-795b73082767). Depends on the day.
+About [product thinking](https://uxplanet.org/product-thinking-101-1d71a0784f60), design systems, [recommendation engines](https://uxplanet.org/how-can-we-design-an-intelligent-recommendation-engine-b9bb1db4d050), and the messy territory where technology meets taste. Sometimes about [Michelangelo's forearms](https://medium.com/@im.naren/michelangelos-moses-and-his-little-finger-795b73082767). Depends on the day.
 
 → [narenkatakam.com](https://www.narenkatakam.com) · [Substack](https://narenkatakam.substack.com) · [LinkedIn](https://linkedin.com/in/narenkatakam) · [X](https://x.com/narenkatakam)
