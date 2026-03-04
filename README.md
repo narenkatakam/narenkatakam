@@ -14,4 +14,4 @@ Product Principal at [ThoughtWorks](https://thoughtworks.com), Amsterdam. Shapin
 
 About product thinking, design systems, and the messy territory where technology meets taste. Sometimes about Michelangelo's forearms. Depends on the day.
 
-→ [narenkatakam.com](https://www.narenkatakam.com) · [LinkedIn](https://linkedin.com/in/narenkatakam) · [X](https://x.com/narenkatakam)
+→ [narenkatakam.com](https://www.narenkatakam.com) · [Substack](https://narenkatakam.substack.com) · [LinkedIn](https://linkedin.com/in/narenkatakam) · [X](https://x.com/narenkatakam)
