@@ -1,6 +1,6 @@
 ### Hey, I'm Naren.
 
-They say pick a lane. I picked the intersections instead — design, engineering, philosophy, AI. The dots nobody else is connecting? That's where I live.
+They say pick a lane. I picked the intersections instead — design, product, engineering, philosophy, AI. The dots seldom connected. That's where I live.
 
 Product Principal at [ThoughtWorks](https://thoughtworks.com), Amsterdam. Shaping intelligent products across healthtech, aviation, retail, and public sector. Now shipping my own experiments.
 
